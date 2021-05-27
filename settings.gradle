@@ -1,3 +1,2 @@
-include ':app'
 include ':tool'
 rootProject.name = "AndroidTool"
