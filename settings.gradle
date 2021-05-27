@@ -1,0 +1,2 @@
+include ':tool'
+rootProject.name = "AndroidTool"
